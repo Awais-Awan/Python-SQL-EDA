@@ -4,12 +4,12 @@
 
 This project showcases how to integrate CSV data into a MySQL database using Python and perform exploratory data analysis (EDA) on the imported data. It consists of two main Jupyter notebooks:
 
-1. **`csv_to_mysql.ipynb`**: Automates the process of importing CSV files into MySQL, handling data type mapping, table creation, and data insertion.
+1. **`csv-to-mysql.ipynb`**: Automates the process of importing CSV files into MySQL, handling data type mapping, table creation, and data insertion.
 2. **`SQL-Python-EDA.ipynb`**: Performs EDA on the MySQL data using SQL queries and Python libraries such as Pandas, Matplotlib, and Seaborn.
 
 ## Project Structure
 
-- **`csv_to_mysql.ipynb`**: 
+- **`csv-to-mysql.ipynb`**: 
   - Connects to a MySQL database.
   - Reads multiple CSV files from a specified directory.
   - Creates corresponding MySQL tables and inserts data.
