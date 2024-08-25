@@ -34,3 +34,5 @@ This project showcases how to integrate CSV data into a MySQL database using Pyt
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/repository-name.git
+
+**For DataSet please visit**: https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
